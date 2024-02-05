@@ -2,7 +2,7 @@ import React from "react";
 
 const AboutSection = () => {
   return (
-    <section className="bg-[#000022] py-8 lg:py-12 lg:pt-24 px-4 lg:px-20 relative">
+    <section className="bg-[#000022] py-8 lg:py-12 lg:pt-24 px-4 lg:px-20 relative"> 
       <div className="container mx-auto relative z-10">
         <div className="flex flex-col lg:flex-row items-center justify-center lg:space-x-12">
           <div className="lg:w-1/2">

@@ -10,7 +10,7 @@ const Strategies = () => {
               Pathology Services: A Compassionate Approach to Diagnosis
             </h2>
             <p className="text-base lg:text-lg text-gray-100 leading-relaxed mb-4 lg:mb-6 reveal-text relative z-10">
-              At Take Care, we specialize in providing comprehensive pathology services designed to offer clarity and support during your medical journey. Our team of skilled professionals employs advanced diagnostic techniques with a compassionate touch, ensuring accurate and insightful results. From specimen analysis to detailed reports, we are dedicated to guiding you through the intricacies of diagnosis with care and expertise. With Take Care, you can trust in our commitment to delivering reliable pathology solutions tailored to your unique healthcare needs.
+              At Take Care, we offer comprehensive pathology services designed to provide clarity and support throughout your medical journey. Our skilled team employs advanced diagnostic techniques with care, ensuring accurate results and insightful reports. Trust us to guide you through diagnosis with expertise, delivering tailored solutions to meet your unique healthcare needs.
             </p>
           </div>
 

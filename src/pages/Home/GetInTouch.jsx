@@ -75,7 +75,7 @@ const GetInTouch = () => {
           {contactInfo.map((item, index) => (
             <div
               key={index}
-              className="lg:w-1/3 flex flex-col items-center gap-3 text-center lg:items-center"
+              className="lg:w-1/3 flex flex-col items-center gap-2 text-center lg:items-center"
             >
               {item.icon}
               <h3 className="text-lg font-semibold">{item.title}</h3>

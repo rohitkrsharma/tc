@@ -6,7 +6,7 @@ const HeroSection = () => {
 
   const customLineStyle = {
     width: "3px",
-    height: "30px",
+    height: "32px",
     backgroundColor: "#ba9842",
     display: "inline-block",
     margin: "0 3px",
@@ -83,7 +83,10 @@ const HeroSection = () => {
         <div className="lg:w-[700px] w-[350px]  flex flex-col ">
           <div>
             <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-4 lg:leading-tight">
-              Take Care Your Health with 'Take Care'
+              Care Your Health with
+              <span className="inline-block">
+                'Take Care'
+              </span>
               <br className="hidden lg:inline" />
             </h1>
             <p className="text-base md:text-lg lg:text-xl mb-8 w-auto ">

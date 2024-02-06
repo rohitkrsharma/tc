@@ -62,6 +62,11 @@ const HeroSection = () => {
           >
             Take Care
           </div>
+          {/* <img
+            src="/images/tc.png"
+            alt="About Image"
+            className="w-[40px] lg:h-full object-cover rounded-lg"
+          /> */}
           <div className="fixed right-6 top-10 lg:fixed lg:top-16 lg:right-10 z-50 ">
             <button
               onClick={handleContactClick}

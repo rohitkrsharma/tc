@@ -59,8 +59,8 @@ export default function Home() {
       <Script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></Script>
       <Script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js"></Script>
       <Head>
-        <title>Digital Falak : Empowering Digital Solutions & Innovation.</title>
-        <meta name="description" content="Welcome to Digifalak, your hub for amazing online experiences. We specialize in crafting special websites and advanced apps just for you. Our team knows how to use tech to help businesses grow. Come join us to discover the digital world and take your brand to new heights!" />
+        <title>Take Care : Empower Your Health Journey with Take Care.</title>
+        <meta name="description" content="Welcome to Take Care, we blend compassion and expertise to provide exceptional medical services right at your doorstep." />
         <link rel="icon" type="image/x-icon" sizes="32x32" href="/favicon.ico" />
       </Head>
       <HeroSection />

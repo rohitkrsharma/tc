@@ -83,11 +83,11 @@ const HeroSection = () => {
         <div className="lg:w-[700px] w-[350px]  flex flex-col ">
           <div>
             <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-4 lg:leading-tight">
-              Empower Your Health Journey with Take Care
+              Take Care Your Health with 'Take Care'
               <br className="hidden lg:inline" />
             </h1>
             <p className="text-base md:text-lg lg:text-xl mb-8 w-auto ">
-              At Take Care, we blend compassion and expertise to provide exceptional medical services right at your doorstep. Our mission is to ensure your well-being with personalized care and innovative solutions. Let us accompany you on your path to wellness in the comfort of your home.
+              At Take Care, we bring together compassion and expertise to offer top-notch medical services, including pathology, right to your doorstep. Our aim is simple: to prioritize your well-being through personalized care and innovative solutions. Join us as we accompany you on your journey to wellness, all within the comfort of your home.
             </p>
           </div>
         </div>

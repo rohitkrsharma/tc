@@ -27,8 +27,8 @@ const ProjectSuccess = () => {
           <line x1="7" y1="7" x2="17" y2="17" />
         </svg>
       ),
-      heading: "Consultation Process",
-      paragraph: "We begin by understanding your unique needs and goals.",
+      heading: "Initial Assessment",
+      paragraph: "We commence by evaluating your specific health concerns and objectives.",
     },
     {
       icon: (
@@ -49,9 +49,9 @@ const ProjectSuccess = () => {
           <line x1="9" y1="12" x2="15" y2="12"></line>
         </svg>
       ),
-      heading: "Design & Development",
+      heading: "Diagnostic Testing",
       paragraph:
-        "Our team crafts captivating designs and develops functional solutions.",
+        "Our team conducts a variety of comprehensive tests, including blood tests, urine analysis, and tissue biopsies.",
     },
     {
       icon: (
@@ -72,9 +72,9 @@ const ProjectSuccess = () => {
           <line x1="12" y1="14" x2="12" y2="20"></line>
         </svg>
       ),
-      heading: "Testing & Refinement",
+      heading: "Analysis & Interpretation",
       paragraph:
-        "We rigorously test and refine our work to ensure optimal performance.",
+        "We meticulously analyze test results, interpreting findings with precision and attention to detail.",
     },
     {
       icon: (
@@ -93,9 +93,9 @@ const ProjectSuccess = () => {
           <circle cx="12" cy="12" r="10" />
         </svg>
       ),
-      heading: "Project Completion",
+      heading: "Completion & Reporting",
       paragraph:
-        "We deliver the final product, ready to propel your brand forward.",
+        "Upon completion, we deliver comprehensive reports, furnishing you with valuable insights to guide your healthcare decisions.",
     },
   ];
 
@@ -105,7 +105,7 @@ const ProjectSuccess = () => {
         <div className="flex flex-col lg:flex-row space-y-8 lg:space-y-0">
           <div className="lg:w-1/2">
             <h2 className="text-3xl lg:text-4xl font-bold text-gray-100 mb-6 w-5/6">
-              Our Seamless Process for Project Success
+              Efficient Pathology Procedures Ensuring Diagnostic Success
             </h2>
             {/* <button
               onClick={handleClick}
